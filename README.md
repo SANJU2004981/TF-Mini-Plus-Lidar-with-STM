@@ -59,12 +59,14 @@ Distance: 175 cm     Strength: 10083     Temp: 50.00 °C
 
 🔧 How to Use
 
-1.  create a new project in PlatformIO
-2.  Open the src -> main.cpp.
-3.  then paste the program
-4.  also paste the PlatformIO.ini.
-5.  Connect your Nucleo-H723ZG via USB.
-6.  Click the PlatformIO: Build icon.
-7.  Click the PlatformIO: Upload icon.
-8.  Open the Serial Monitor to view live LiDAR data.
+1.  open vscode.
+2.  then download the PlatformIO extension.
+3.  create a new project in PlatformIO
+4.  Open the src -> main.cpp.
+5.  then paste the program
+6.  also paste the PlatformIO.ini.
+7.  Connect your Nucleo-H723ZG via USB.
+8.  Click the PlatformIO: Build icon.
+9.  Click the PlatformIO: Upload icon.
+10.  Open the Serial Monitor to view live LiDAR data.
 
